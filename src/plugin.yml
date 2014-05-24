@@ -4,10 +4,6 @@ version: 0.3.0
 description: >
              Party Chat Plugin
 commands:
-  p:
-    description: Send a party chat message
-    permission: chatparty.user
-    usage: "/p <message>"
   party:
     description: Join, manage and create chat parties
     permission: chatparty.user
